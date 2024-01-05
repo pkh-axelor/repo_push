@@ -6,3 +6,6 @@ public class Sum {
         System.out.println("The sum is : "+ (a+b));
     }
 }
+
+
+// this is basic java code to perform sum of to numbers.
